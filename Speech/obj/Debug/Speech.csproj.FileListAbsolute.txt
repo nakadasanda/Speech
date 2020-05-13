@@ -1,0 +1,9 @@
+C:\Users\tosi\source\repos\Speech\Speech\bin\Debug\Speech.exe.config
+C:\Users\tosi\source\repos\Speech\Speech\bin\Debug\Speech.exe
+C:\Users\tosi\source\repos\Speech\Speech\bin\Debug\Speech.pdb
+C:\Users\tosi\source\repos\Speech\Speech\obj\Debug\Speech.csprojAssemblyReference.cache
+C:\Users\tosi\source\repos\Speech\Speech\obj\Debug\Speech.Properties.Resources.resources
+C:\Users\tosi\source\repos\Speech\Speech\obj\Debug\Speech.csproj.GenerateResource.cache
+C:\Users\tosi\source\repos\Speech\Speech\obj\Debug\Speech.csproj.CoreCompileInputs.cache
+C:\Users\tosi\source\repos\Speech\Speech\obj\Debug\Speech.exe
+C:\Users\tosi\source\repos\Speech\Speech\obj\Debug\Speech.pdb
